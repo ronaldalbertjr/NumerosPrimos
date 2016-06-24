@@ -1,0 +1,6 @@
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
